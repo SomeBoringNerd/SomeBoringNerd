@@ -1,5 +1,5 @@
 ## Hello !
-I'm SomeBoringNerd,I make video games, websites and minecraft related stuff.
+I'm SomeBoringNerd, I make video games, websites and minecraft related stuff.
 <br><br>
 I'm a member of WaifuWareINC, where we do cybersecurity stuff and mess with virus / obfuscation :<br>
 [![https://github.com/WaifuWare]()](https://github.com/WaifuWare)<br>
@@ -7,9 +7,7 @@ I'm a member of WaifuWareINC, where we do cybersecurity stuff and mess with viru
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=SomeBoringNerd&count_private=true&include_all_commits=true&theme=radical" height="210" width="640"/>
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SomeBoringNerd&layout=compact&theme=radical" height="210" width="640"/>
-</a>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SomeBoringNerd&layout=compact&theme=radical" height="210" width="640"/>
 <br><br>
 ## number of visits :
 <br>
