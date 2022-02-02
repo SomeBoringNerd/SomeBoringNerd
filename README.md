@@ -11,8 +11,13 @@ I'm a member of WaifuWareINC, where we do cybersecurity stuff and mess with viru
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SomeBoringNerd&layout=compact&theme=radical" />
 </a>
 <br><br>
+## number of visits :
+<br>
+<img src="https://profile-counter.glitch.me/SomeBoringNerd/count.svg" height="32" />
+<br>
 
 ## my social medias : 
+
 [![My game's Discord]()](https://discord.gg/gtfJY7uKCN)<br>
 [![My Youtube channel]()](https://www.youtube.com/channel/UCoQXdbuo7fGf12BTYCnJ1Eg)
 
