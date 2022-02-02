@@ -1,14 +1,14 @@
 ## Hello !
 I'm SomeBoringNerd,I make video games, websites and minecraft related stuff.
-<br>
+<br><br>
 I'm a member of WaifuWareINC, where we do cybersecurity stuff and mess with virus / obfuscation :<br>
-[![https://github.com/WaifuWare/]()](https://github.com/WaifuWare/)<br>
+[![https://github.com/WaifuWare]()](https://github.com/WaifuWare)<br>
 <br>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SomeBoringNerd&count_private=true&include_all_commits=true&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SomeBoringNerd&count_private=true&include_all_commits=true&theme=radical" height="210" width="640"/>
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SomeBoringNerd&layout=compact&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SomeBoringNerd&layout=compact&theme=radical" height="210" width="640"/>
 </a>
 <br><br>
 ## number of visits :
@@ -25,6 +25,6 @@ I'm a member of WaifuWareINC, where we do cybersecurity stuff and mess with viru
 If my work was useful to you by any mean, and you feel like it, you can give me some spare money on 
 [![paypal.me/SomeBoringNerd](https://ionicabizau.github.io/badges/paypal.svg)](https://www.paypal.me/SomeBoringNerd)
 
-<br><br>
+
 *readme.md powered by anuraghzra's github-readme-stat, check it out here :* <br>
 [![https://github.com/anuraghazra/github-readme-stats/]()](https://github.com/anuraghazra/github-readme-stats/)
