@@ -1,7 +1,7 @@
 ## Hello !
 I'm SomeBoringNerd, I make video games, websites and minecraft related stuff.
 <br><br>
-I'm a member of WaifuWareINC, where we do cybersecurity stuff and mess with virus / obfuscation :<br>
+Proud member of WaifuWareINC, a group of weebs that deal with obfuscation, virus and obscure Minecraft related stuff to keep our community safe (like hacked client and plugins)<br><br>
 [![https://github.com/WaifuWare]()](https://github.com/WaifuWare)<br>
 <br>
 <a href="https://github.com/anuraghazra/github-readme-stats">
