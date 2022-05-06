@@ -1,5 +1,5 @@
 ## Hello !
-<center>I'm SomeBoringNerd, I make video games, websites and minecraft related stuff.
+I'm SomeBoringNerd, I make video games, websites and minecraft related stuff.
 <br><br>
 Proud member of WaifuWareINC, a group of weebs that deal with obfuscation, virus and obscure Minecraft related stuff to keep our community safe (like hacked client and plugins)<br><br>
 [![https://github.com/WaifuWare]()](https://github.com/WaifuWare)<br>
@@ -27,4 +27,3 @@ If my work was useful to you by any mean, and you feel like it, you can give me 
 
 *readme.md powered by anuraghzra's github-readme-stat, check it out here :* <br>
 [![https://github.com/anuraghazra/github-readme-stats/]()](https://github.com/anuraghazra/github-readme-stats/)
-</center>
