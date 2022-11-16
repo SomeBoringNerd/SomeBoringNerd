@@ -1,5 +1,7 @@
 ## Hello !
-I'm SomeBoringNerd a curious modder that make video games, websites and minecraft related stuff (mostly mods and plugins).
+I'm SomeBoringNerd, a curious modder that make video games, websites and minecraft related stuff (mostly mods and plugins).<br>
+I'm the head of the FeurGroup's research and development's departement with FeurApi, FeurBot and WaifuHax as my mains projects.<br>
+I'm also making a video game.<br>
 <br><br>
 <br>
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -16,11 +18,9 @@ I'm SomeBoringNerd a curious modder that make video games, websites and minecraf
 
 [![My game's Discord]()](https://discord.gg/gtfJY7uKCN)<br>
 [![My GameDev Youtube channel]()](https://www.youtube.com/channel/UCoQXdbuo7fGf12BTYCnJ1Eg)<br>
-[![My Modding / Programing Youtube channel]()](https://www.youtube.com/channel/UC7eQo-UM_r6p458pCV6rxeA)
-
-## other
-If my work was useful to you by any mean, and you feel like it, you can give me some spare money on 
-[![paypal.me/SomeBoringNerd](https://ionicabizau.github.io/badges/paypal.svg)](https://www.paypal.me/SomeBoringNerd)
+[![My Modding / Programing Youtube channel]()](https://www.youtube.com/channel/UC7eQo-UM_r6p458pCV6rxeA)<br>
+[![My website]()](https://someboringnerd.xyz)<br>
+My minecraft server : mc.falling-from.space (1.19.2, anarchy server)<br>
 
 *readme.md powered by anuraghzra's github-readme-stat, check it out here :* <br>
 [![https://github.com/anuraghazra/github-readme-stats/]()](https://github.com/anuraghazra/github-readme-stats/)
