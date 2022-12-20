@@ -1,6 +1,5 @@
 ## Hello !
 I'm SomeBoringNerd, a curious modder that make video games, websites and minecraft related stuff (mostly mods and plugins).<br>
-I'm the head of the FeurGroup's research and development's departement with FeurApi, FeurBot and WaifuHax as my mains projects.<br>
 I'm also making a video game.<br>
 <br><br>
 <br>
