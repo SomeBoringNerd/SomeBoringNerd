@@ -6,7 +6,8 @@ I make and publish games on my Itch.io page available
 [![at this link : https://someboringnerd.itch.io]()](https://someboringnerd.itch.io)<br>
 <br>
 If you need a somewhat competent dev for quick projects, feel free to contact me on discord (SomeBoringNerd#5428), or by mail (someboringnerd@gmail.com).
-
+<br>
+note : archived projects are projects that will receive no support and if you ask me to help you with them, i'm likely going to ignore you.
 <br>
 
 
