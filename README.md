@@ -5,7 +5,8 @@ A lot of my public repos are rewrites of proprietary tools for my personal use, 
 I make and publish games on my Itch.io page available 
 [![at this link : https://someboringnerd.itch.io]()](https://someboringnerd.itch.io)<br>
 <br>
-If you need a somewhat competent dev for quick projects, feel free to contact me on discord (SomeBoringNerd#5428), or by mail (someboringnerd@gmail.com).
+If you need a somewhat competent dev for quick projects, feel free to contact me on discord (SomeBoringNerd#5428), or by mail (someboringnerd@gmail.com).<br>
+Also, dont mind my activity on my public repo, a lot of my work is done on private repos (like websites for clients, my game, school projects, etc...)
 <br>
 note : archived projects are projects that will receive no support and if you ask me to help you with them, i'm likely going to ignore you.
 <br>
@@ -14,6 +15,9 @@ note : archived projects are projects that will receive no support and if you as
 ## my social medias : 
 
 [![My GameDev Discord]()](https://discord.gg/gtfJY7uKCN)<br>
+
 [![My GameDev Youtube channel]()](https://www.youtube.com/channel/UCoQXdbuo7fGf12BTYCnJ1Eg)<br>
+
 [![My Modding / Programing Youtube channel]()](https://www.youtube.com/channel/UC7eQo-UM_r6p458pCV6rxeA)<br>
+
 [![My website (portfolio)]()](https://someboringnerd.xyz)<br>
