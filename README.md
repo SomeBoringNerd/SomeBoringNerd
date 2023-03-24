@@ -14,6 +14,8 @@ note : archived projects are projects that will receive no support and if you as
 
 ## my social medias : 
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/283205890474115072)](https://discord.com/users/283205890474115072)
+
 [![My GameDev Discord]()](https://discord.gg/gtfJY7uKCN)<br>
 
 [![My GameDev Youtube channel]()](https://www.youtube.com/channel/UCoQXdbuo7fGf12BTYCnJ1Eg)<br>
