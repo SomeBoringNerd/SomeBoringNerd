@@ -23,3 +23,5 @@ note : archived projects are projects that will receive no support and if you as
 [![My Modding / Programing Youtube channel]()](https://www.youtube.com/channel/UC7eQo-UM_r6p458pCV6rxeA)<br>
 
 [![My website (portfolio)]()](https://someboringnerd.xyz)<br>
+
+[![Gitea instance where all the SpaceAnarchy plugins are]()](https://git.someboringnerd.xyz)<br>
