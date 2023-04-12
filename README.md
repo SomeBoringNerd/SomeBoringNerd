@@ -13,10 +13,10 @@ note : archived projects are projects that will receive no support and if you as
 
 ## SpaceAnarchy plugins :
 <br>
-<a href="https://github.com/SomeBoringNerd/ChatReportDisable-plugin">Chat report disabler</a><br>
-<a href="https://github.com/SomeBoringNerd/player-util">Utility plugin to add custom commands</a><br>
-<a href="https://github.com/SomeBoringNerd/ItemFrameDupe">Plugin to add the item frame dupe</a><br>
-<a href="https://github.com/SomeBoringNerd/AntiIllegal">Custom anti-illegal (no git repo yet)</a><br>
+<a href="https://github.com/SomeBoringNerd/ChatReportDisable-plugin">Chat report disabler</a><br><br>
+<a href="https://github.com/SomeBoringNerd/player-util">Utility plugin to add custom commands</a><br><br>
+<a href="https://github.com/SomeBoringNerd/ItemFrameDupe">Plugin to add the item frame dupe</a><br><br>
+<a href="https://github.com/SomeBoringNerd/AntiIllegal">Custom anti-illegal (no git repo yet)</a><br><br>
 <a href="https://github.com/SomeBoringNerd/AntiBackdoor">Plugin made to limit op status in case the server get compromised (no git repo yet)</a><br>
 <br>
 
@@ -24,8 +24,8 @@ note : archived projects are projects that will receive no support and if you as
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/283205890474115072)](https://discord.com/users/283205890474115072)
 
-<a href="https://discord.gg/gtfJY7uKCN">Discord</a><br>
-<a href="https://www.youtube.com/channel/UCoQXdbuo7fGf12BTYCnJ1Eg">GameDev youtube channel</a><br>
-<a href="https://www.youtube.com/channel/UC7eQo-UM_r6p458pCV6rxeA">Programming youtube channel</a><br>
-<a href="https://someboringnerd.xyz">My website</a><br>
-<a href="https://git.someboringnerd.xyz">GitLab instance (with the same content as github, with some exclusive repos)</a><br>
+<a href="https://discord.gg/gtfJY7uKCN">Discord</a><br><br>
+<a href="https://www.youtube.com/channel/UCoQXdbuo7fGf12BTYCnJ1Eg">GameDev youtube channel</a><br><br>
+<a href="https://www.youtube.com/channel/UC7eQo-UM_r6p458pCV6rxeA">Programming youtube channel</a><br><br>
+<a href="https://someboringnerd.xyz">My website</a><br><br>
+<a href="https://git.someboringnerd.xyz">GitLab instance (with the same content as github, with some exclusive repos)</a><br><br>
