@@ -11,15 +11,6 @@ Also, dont mind my activity on my public repo, a lot of my work is done on priva
 note : archived projects are projects that will receive no support and if you ask me to help you with them, i'm likely going to ignore you.
 <br>
 
-## SpaceAnarchy plugins :
-<br>
-<a href="https://github.com/SomeBoringNerd/ChatReportDisable-plugin">Chat report disabler</a><br><br>
-<a href="https://github.com/SomeBoringNerd/player-util">Utility plugin to add custom commands</a><br><br>
-<a href="https://github.com/SomeBoringNerd/ItemFrameDupe">Plugin to add the item frame dupe</a><br><br>
-<a href="https://github.com/SomeBoringNerd/AntiIllegal">Custom anti-illegal (no git repo yet)</a><br><br>
-<a href="https://github.com/SomeBoringNerd/AntiBackdoor">Plugin made to limit op status in case the server get compromised (no git repo yet)</a><br>
-<br>
-
 ## my social medias : 
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/283205890474115072)](https://discord.com/users/283205890474115072)
