@@ -19,4 +19,4 @@ note : archived projects are projects that will receive no support and if you as
 <a href="https://www.youtube.com/channel/UCoQXdbuo7fGf12BTYCnJ1Eg">GameDev youtube channel</a><br><br>
 <a href="https://www.youtube.com/channel/UC7eQo-UM_r6p458pCV6rxeA">Programming youtube channel</a><br><br>
 <a href="https://someboringnerd.xyz">My website</a><br><br>
-<a href="https://gitlab.com/SomeBoringNerd">GitLab (with the same content as github, with some exclusive repos)</a><br><br>
+<a href="https://gitlab.com/SomeBoringNerd">GitLab (used for some exclusive repos)</a><br><br>
