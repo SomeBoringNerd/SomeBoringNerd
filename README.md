@@ -16,7 +16,7 @@ note : archived projects are projects that will receive no support and if you as
 [![Discord Presence](https://lanyard.cnrad.dev/api/283205890474115072)](https://discord.com/users/283205890474115072)
 
 <a href="https://discord.gg/gtfJY7uKCN">Discord</a><br><br>
-<a href="https://www.youtube.com/channel/UCoQXdbuo7fGf12BTYCnJ1Eg">GameDev youtube channel</a><br><br>
-<a href="https://www.youtube.com/channel/UC7eQo-UM_r6p458pCV6rxeA">Programming youtube channel</a><br><br>
+<a href="https://www.youtube.com/@SomeBoringNerd">GameDev youtube channel</a><br><br>
+<a href="https://www.youtube.com/@SomeBoringDev">Programming youtube channel</a><br><br>
 <a href="https://someboringnerd.xyz">My website</a><br><br>
-<a href="https://gitlab.com/SomeBoringNerd">GitLab (used for some exclusive repos)</a><br><br>
+<a href="https://gitlab.com/SomeBoringNerd">My gitlab account with exclusive repos (or where i put repos that are a repetition on what's already here)</a><br><br>
