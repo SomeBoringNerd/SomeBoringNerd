@@ -1,5 +1,5 @@
 <p align="left">I'm a programmer for fun, now working for <a href="https://sandblockstudios.com/">SandBlockStudio</a></p>
-<p align="left">I also work on <a href="someboringnerd.xyz/projects/ttd">Through The Dark</a>, a game where you fight for your life, but not in the way you'd expect</p>
+<p align="left">I also work on <a href="https://someboringnerd.xyz/projects/ttd">Through The Dark</a>, a game where you fight for your life, but not in the way you'd expect</p>
 
 ###
 
